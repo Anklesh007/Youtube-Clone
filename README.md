@@ -1,2 +1,2 @@
 # Youtube-Clone
-Using HTML,CSS, JavaScript.
+Using HTML, CSS, JavaScript.
